@@ -16,3 +16,4 @@ vim.g.localleader = "\\"
 
 require("lazy").setup("plugins")
 require("opts")
+require("keymaps")
