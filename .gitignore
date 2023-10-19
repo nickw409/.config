@@ -1,5 +1,6 @@
 joplin-desktop
 iterm2
 pulse
+nvim_backup
 
 *.log
