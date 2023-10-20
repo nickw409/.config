@@ -1,5 +1,7 @@
 local opt = vim.opt
 
+opt.encoding = 'utf-8'
+
 opt.colorcolumn = '80' 
 opt.smartindent = true
 
@@ -10,3 +12,5 @@ opt.tabstop = 3
 
 opt.splitright = true
 opt.splitbelow = true
+
+opt.updatetime = 300
